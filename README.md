@@ -73,6 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 This is for study purpose
+
 Updated by Nithixz
 
 Updated by AkLuffy
@@ -84,3 +85,4 @@ New TodoList Project
 ### Development process
 
 India
+
