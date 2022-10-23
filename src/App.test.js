@@ -5,4 +5,8 @@ test('renders learn react link', () => {
   render(<App />);
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
+  function Hello(props) {
+  return <h1>Hello World!</h1>;
+}
+
 });
