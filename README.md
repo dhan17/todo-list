@@ -16,6 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+aadded some comments
 
 ### `npm test`
 
@@ -36,7 +37,7 @@ this is a good comment
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `npm run eject
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
