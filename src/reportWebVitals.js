@@ -9,5 +9,6 @@ const reportWebVitals = onPerfEntry => {
     });
   }
 };
+const isLoggedIn = true;
 
 export default reportWebVitals;
